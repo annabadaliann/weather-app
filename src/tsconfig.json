@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "target": "es5",
+    "module": "esnext",
+    "allowJs": true,
+    "resolveJsonModule": true
+  }
+}

@@ -1,0 +1,19 @@
+.search-field {
+  margin-bottom: 60px;
+}
+
+.search-field input {
+  width: 400px;
+  height: 40px;
+  padding: 0 15px;
+  outline: none;
+  border: 1px solid #ccc;
+}
+
+.search-field button {
+  color: #fff;
+  padding: 14px;
+  background-color: #ec6e4c;
+  outline: none;
+  border: none;
+}
